@@ -1,5 +1,7 @@
 ## Hi there, introducing myself 👋
-- 🔭 I’m currently working on data science repositories as Python or JupyterLab code.
+Hello, I'm Helmut and the last 20 years I was optimizing client websites, so they ranked high on Google for important keywords.
+Now, my way goes from Google optimization to Python, Data Science and AI. 
+- 🔭 I’m currently working on :chart_with_upwards_trend: data science repositories as Python or JupyterLab code.
 
 <!--
 **helmutnaber/helmutnaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
