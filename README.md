@@ -1,5 +1,5 @@
 ## Hi there, introducing myself 👋
-Hello, I'm Helmut and the last 20 years I was optimizing client websites, so they ranked high on Google for important keywords.
+Hello, I'm Helmut and more than 20 years I was optimizing client web pages, so they ranked high with them on Google Search for important keywords.
 Now, my way goes from Google optimization to Python, Data Science and AI. 
 - 🔭 I’m currently working on :chart_with_upwards_trend: data science repositories as Python or JupyterLab code.
 
