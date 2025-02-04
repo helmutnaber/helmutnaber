@@ -7,6 +7,10 @@ Now, my way goes from Google optimization to Python, Data Science and AI.
 - Programming Languages: Python, HTML, CSS, SQL
 - Query Language: SQL
 
+## :toolbox: Tools
+- CMS: WordPress
+- Python: Pycharm, Jupyter Notebook, VS Code
+
 <!--
 **helmutnaber/helmutnaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
