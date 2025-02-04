@@ -1,4 +1,4 @@
-## Hi there, introducing myself 👋
+## Introducing myself :smiley: 
 Hello, I'm Helmut and more than 20 years I was optimizing client web pages, so they ranked high with them on Google Search for important keywords.
 Now, my way goes from Google optimization to Python, Data Science and AI. 
 - 🔭 I’m currently working on :chart_with_upwards_trend: data science repositories as Python or JupyterLab code.
