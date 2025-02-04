@@ -1,5 +1,5 @@
 ## Hi there, introducing myself 👋
-- 🔭 I’m currently working on repositories
+- 🔭 I’m currently working on data science repositories as Python or JupyterLab code.
 
 <!--
 **helmutnaber/helmutnaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
