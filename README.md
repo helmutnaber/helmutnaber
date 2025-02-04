@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, introducing myself 👋
 - 🔭 I’m currently working on repositories
 
 <!--
